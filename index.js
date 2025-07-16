@@ -9,11 +9,11 @@ function onChangePassword() {
 }
 
 function login() {
-    window.location.href = "pages/home3.html";
+    window.location.href = "pages/home.html";
 }
 
 function register() {
-    window.location.href = "pages/register3.html";
+    window.location.href = "pages/register.html";
 }
 
 function toggleEmailErrors() {
